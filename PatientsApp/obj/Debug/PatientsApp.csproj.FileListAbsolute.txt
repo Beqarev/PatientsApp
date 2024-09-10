@@ -1,0 +1,17 @@
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.csproj.AssemblyReference.cache
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.Properties.Resources.resources
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.csproj.GenerateResource.cache
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\bin\Debug\PatientsApp.exe.config
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\bin\Debug\PatientsApp.exe
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\bin\Debug\PatientsApp.pdb
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\bin\Debug\Dapper.dll
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\bin\Debug\Dapper.xml
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\Patients.9CD447E7.Up2Date
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.exe
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.pdb
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.AddForm.resources
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.PatientsForm.resources
+C:\Users\pc\RiderProjects\WindowsFormsApp1\PatientsApp\obj\Debug\PatientsApp.DeleteForm.resources
